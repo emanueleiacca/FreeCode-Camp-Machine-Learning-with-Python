@@ -46,3 +46,7 @@ The course includes several projects that reinforce the theoretical concepts by 
 `Files:` fcc_cat_dog.ipynb
 
 `Results:` The model achieves an accuracy of 64% on the test set, effectively distinguishing between cats and dogs in the images.
+
+## 5. Rock-Paper-Scissors Tactic
+
+Available in this [repository](https://github.com/emanueleiacca/boilerplate-rock-paper-scissors) 
